@@ -1,0 +1,1 @@
+Built a comprehensive Power BI dashboard for analyzing and visualizing key business metrics. Created interactive reports, implemented advanced data modeling and DAX measures, and enabled actionable insights for decision-making using real-world datasets.
